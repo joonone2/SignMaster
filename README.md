@@ -21,7 +21,7 @@
 
 ## Dataset
 
-  - Dataset은 20개의 class, class 당 40개의 video, video당 110 ~ 200 frames (약 3 ~ 7초, 1초당 30frame)
+  - Dataset은 10개의 class, class 당 2개의 video, video당 약 900 frames (30초, 1초당 30frame)
   
     0. hello<br>
     1. pretty<br>
