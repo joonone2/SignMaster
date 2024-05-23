@@ -121,17 +121,17 @@ _가로축 = epoch , 왼쪽 세로축 = loss, 오른쪽 세로축 = accuracy_
   
 # actions
   
-|                                                        카테고리별 보기                                                        |                                                         내 프로필                                                         |
+|                                                        how much                                                        |                                                         inroduce                                                         |
 | :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| <img src='https://github.com/joonone2/OFER/assets/129241680/d4abc3a9-f7d5-4102-b70d-eb10a263faa9'> | <img src='https://github.com/joonone2/OFER/assets/129241680/dac70592-93d8-4c54-baff-6e36bad92814'> |
-|                                                     <b>댓글 기능</b>                                                      |                                                <b>업로드</b>                                                |
-| <img src='https://github.com/joonone2/OFER/assets/129241680/fa658dd5-b34a-43fd-be8c-a96b9a9dbd66'> | <img src='https://github.com/joonone2/OFER/assets/129241680/de08f6e9-c0fa-4093-8f8b-8d303bdb7127'> |
-|                                                     <b>회원가입</b>                                                      |                                                <b>로그인</b>                                                |
-| <img src='https://github.com/joonone2/OFER/assets/129241680/07355392-4e23-48bc-b4b4-0b2385b58dbd'> | <img src='https://github.com/joonone2/OFER/assets/129241680/abfb8d7f-5370-495c-8efd-69bcb82744e1'> |
-|                                                     <b>회원가입</b>                                                      |                                                <b>로그인</b>                                                |
-| <img src='https://github.com/joonone2/OFER/assets/129241680/07355392-4e23-48bc-b4b4-0b2385b58dbd'> | <img src='https://github.com/joonone2/OFER/assets/129241680/abfb8d7f-5370-495c-8efd-69bcb82744e1'> |
-|                                                     <b>회원가입</b>                                                      |                                                <b>로그인</b>                                                |
-| <img src='https://github.com/joonone2/OFER/assets/129241680/07355392-4e23-48bc-b4b4-0b2385b58dbd'> | <img src='https://github.com/joonone2/OFER/assets/129241680/abfb8d7f-5370-495c-8efd-69bcb82744e1'> |
+| <img src='https://github.com/joonone2/SignMaster/assets/129241680/a98ae2b9-1108-43a2-bd42-09eb8de39b50'> | <img src='https://github.com/joonone2/SignMaster/assets/129241680/2f899986-7237-4a87-9f94-9545b57930d2'> |
+|                                                     <b>please</b>                                                      |                                                <b>sorry</b>                                                |
+| <img src='https://github.com/joonone2/SignMaster/assets/129241680/ad239822-0ae5-48e4-bfa0-8e29f25baf85'> | <img src='https://github.com/joonone2/SignMaster/assets/129241680/3e2e8390-0595-4e6d-a598-7b407c9939a7'> |
+|                                                     <b>thanks</b>                                                      |                                                <b>fine</b>                                                |
+| <img src='https://github.com/joonone2/SignMaster/assets/129241680/be9e4471-5709-4174-a71f-fd3edefcd36f'> | <img src='https://github.com/joonone2/SignMaster/assets/129241680/15a0716d-2406-47bf-a573-0ba4311c1d50'> |
+|                                                     <b>good</b>                                                      |                                                <b>pretty</b>                                                |
+| <img src='https://github.com/joonone2/SignMaster/assets/129241680/4f313df2-2d84-4b1a-a18b-a9148d4babb3'> | <img src='https://github.com/joonone2/SignMaster/assets/129241680/1943e045-85d7-452f-8ae4-6990cb1fc63f'> |
+|                                                     <b>hello</b>                                                      |                                                <b>shy</b>                                                |
+| <img src='https://github.com/joonone2/SignMaster/assets/129241680/30051e5e-13ab-4a3a-b0f2-bc318137f135'> | <img src='https://github.com/joonone2/SignMaster/assets/129241680/5f01063c-5559-4fb4-b886-40f5716bbd2f'> |
 
 
 
