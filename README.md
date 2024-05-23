@@ -1,6 +1,4 @@
-<div align="center">
-  # LSTM_SignLanguage_Tensorflow
-</div>
+#    LSTM_SignLanguage_Tensorflow
 
 
 
