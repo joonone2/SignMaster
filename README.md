@@ -7,7 +7,6 @@
 
 이 프로젝트에서는 OpenCV와 MediaPipe를 사용하여 각 손가락 관절 간의 각도를 계산합니다. MediaPipe를 사용하여 손의 랜드마크를 추출한 후, 각 랜드마크 간의 벡터를 계산하고, 벡터 간의 각도를 구하는 방식으로 각도를 측정합니다. 이러한 각도 데이터는 각 손의 상대거리와 함께 모델의 입력 데이터로 사용됩니다.
 
-
 <br>
 <br>
 
@@ -120,8 +119,19 @@ _가로축 = epoch , 왼쪽 세로축 = loss, 오른쪽 세로축 = accuracy_
 
   ### 2번이 1번보다 성능이 좋았기 때문에 학습데이터는 60초의 dataset으로 구성하였습니다. 
   
- 
+# actions
   
+|                                                        카테고리별 보기                                                        |                                                         내 프로필                                                         |
+| :---------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
+| <img src='https://github.com/joonone2/OFER/assets/129241680/d4abc3a9-f7d5-4102-b70d-eb10a263faa9'> | <img src='https://github.com/joonone2/OFER/assets/129241680/dac70592-93d8-4c54-baff-6e36bad92814'> |
+|                                                     <b>댓글 기능</b>                                                      |                                                <b>업로드</b>                                                |
+| <img src='https://github.com/joonone2/OFER/assets/129241680/fa658dd5-b34a-43fd-be8c-a96b9a9dbd66'> | <img src='https://github.com/joonone2/OFER/assets/129241680/de08f6e9-c0fa-4093-8f8b-8d303bdb7127'> |
+|                                                     <b>회원가입</b>                                                      |                                                <b>로그인</b>                                                |
+| <img src='https://github.com/joonone2/OFER/assets/129241680/07355392-4e23-48bc-b4b4-0b2385b58dbd'> | <img src='https://github.com/joonone2/OFER/assets/129241680/abfb8d7f-5370-495c-8efd-69bcb82744e1'> |
+|                                                     <b>회원가입</b>                                                      |                                                <b>로그인</b>                                                |
+| <img src='https://github.com/joonone2/OFER/assets/129241680/07355392-4e23-48bc-b4b4-0b2385b58dbd'> | <img src='https://github.com/joonone2/OFER/assets/129241680/abfb8d7f-5370-495c-8efd-69bcb82744e1'> |
+|                                                     <b>회원가입</b>                                                      |                                                <b>로그인</b>                                                |
+| <img src='https://github.com/joonone2/OFER/assets/129241680/07355392-4e23-48bc-b4b4-0b2385b58dbd'> | <img src='https://github.com/joonone2/OFER/assets/129241680/abfb8d7f-5370-495c-8efd-69bcb82744e1'> |
   
 - # Code
 
@@ -138,6 +148,12 @@ _가로축 = epoch , 왼쪽 세로축 = loss, 오른쪽 세로축 = accuracy_
     [models.my_model.tflite](https://github.com/joonone2/SignMaster/blob/main/models/my_model.tflite) <- model<br>
     [check_model.py](https://github.com/joonone2/SignMaster/blob/main/check_model.py) <- 생성된 모델을 테스트하는 code<br>
     [create_data.py](https://github.com/joonone2/SignMaster/blob/main/create_data.py)  <- dataset을 만드는 code<br>
+
+
+
+## 🛠️ Skills
+
+<img width="800px" src='https://github.com/joonone2/SignMaster/assets/129241680/5d9b8d2a-daf9-443f-81af-d313f6d1ca61'  alt="Skills"/>
 
     
     
