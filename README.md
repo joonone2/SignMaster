@@ -132,7 +132,16 @@ _가로축 = epoch , 왼쪽 세로축 = loss, 오른쪽 세로축 = accuracy_
 | <img src='https://github.com/joonone2/OFER/assets/129241680/07355392-4e23-48bc-b4b4-0b2385b58dbd'> | <img src='https://github.com/joonone2/OFER/assets/129241680/abfb8d7f-5370-495c-8efd-69bcb82744e1'> |
 |                                                     <b>회원가입</b>                                                      |                                                <b>로그인</b>                                                |
 | <img src='https://github.com/joonone2/OFER/assets/129241680/07355392-4e23-48bc-b4b4-0b2385b58dbd'> | <img src='https://github.com/joonone2/OFER/assets/129241680/abfb8d7f-5370-495c-8efd-69bcb82744e1'> |
-  
+
+
+
+
+
+## 🛠️ Skills
+
+<img width="800px" src='https://github.com/joonone2/SignMaster/assets/129241680/5d9b8d2a-daf9-443f-81af-d313f6d1ca61'  alt="Skills"/>
+
+    
 - # Code
 
   - version
@@ -151,11 +160,6 @@ _가로축 = epoch , 왼쪽 세로축 = loss, 오른쪽 세로축 = accuracy_
 
 
 
-## 🛠️ Skills
-
-<img width="800px" src='https://github.com/joonone2/SignMaster/assets/129241680/5d9b8d2a-daf9-443f-81af-d313f6d1ca61'  alt="Skills"/>
-
-    
     
     
   
